@@ -9,6 +9,10 @@ Hi there 👋
 
 📫 How to reach me ramadhan.mamo13@gmail.com
 
+⚡Activity
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmdhanrama&show_icons=true&theme=radical)
+
 <br>
 <br>
 <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Tech Stack
